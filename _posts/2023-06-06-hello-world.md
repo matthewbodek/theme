@@ -2,10 +2,9 @@
 layout: post
 title:  "Hello World!"
 ---
-<div style="margin-left:10px;">
-# Welcome
+ # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+ **Hello world**, this is my first Jekyll blog post.
 
-I hope you like it!
-</div>
+ I hope you like it!
+
